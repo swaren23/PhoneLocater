@@ -126,9 +126,8 @@ public class SMSBroadcastReceiver extends BroadcastReceiver {
                 Log.e("TAG", "Message sent");
             }
             catch (java.lang.NullPointerException e) {
-//                15.392350, 73.879587
-                smsManager.sendTextMessage(messageSender, null, "15.392350, 73.879587", null, null);
-                Log.e("TAG", "Message sent");
+                
+                Log.e("TAG", "Location Not Found");
             }
         }
     }
