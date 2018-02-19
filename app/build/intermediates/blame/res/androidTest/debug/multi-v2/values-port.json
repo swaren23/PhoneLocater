@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/aditya/Documents/BITS/2018-SEM-6/SDPD/Labs/Lab3/PhoneLocater/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4129fc34e9d22a21753b20c2a11bd80d/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/aditya/AndroidStudioProjects/PhoneLocater/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4129fc34e9d22a21753b20c2a11bd80d/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

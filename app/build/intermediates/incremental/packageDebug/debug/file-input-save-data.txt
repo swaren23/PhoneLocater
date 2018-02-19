@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Feb 15 14:55:18 IST 2018
+0.baseType=DIRECTORY
+0.base=/home/aditya/Documents/BITS/2018-SEM-6/SDPD/Labs/Lab3/PhoneLocater/app/build/intermediates/transforms/dexMerger/debug/19
+0.path=classes.dex
+0.set=DEX
+count=1
